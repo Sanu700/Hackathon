@@ -2,19 +2,19 @@ import React, { useState, useEffect } from "react";
 
 const slides = [
   {
-    title: "Connect with Trusted Suppliers",
+    title: "Connect with Trusted Suppliers and Street Food Vendors",
     desc: "Browse and find the best suppliers for your street food business.",
-    img: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&h=200&fit=crop&crop=center"
+    img: "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     title: "Track Orders Easily",
     desc: "Keep track of your orders and manage your business efficiently.",
-    img: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=300&h=200&fit=crop&crop=center"
+    img: "https://images.unsplash.com/photo-1647427017067-8f33ccbae493?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     title: "Compare Prices Dynamically",
     desc: "See real-time market and wholesale prices to make informed decisions.",
-    img: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=300&h=200&fit=crop&crop=center"
+    img: "https://images.unsplash.com/photo-1669881336715-5a51a78d5434?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ];
 

@@ -16,11 +16,11 @@ const Home = () => {
       </section>
 
       <section className="features-section">
-        <h2>What We Do</h2>
+        <h2>What We Do?</h2>
         <div className="features-grid">
           <div className="feature-card">
             <img 
-              src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=200&h=200&fit=crop&crop=center" 
+              src="https://images.unsplash.com/photo-1737743824207-6ac1f4ba47f3?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
               alt="Indian Street Food Vendors" 
               className="feature-img"
             />
@@ -29,7 +29,7 @@ const Home = () => {
           </div>
           <div className="feature-card">
             <img 
-              src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=200&h=200&fit=crop&crop=center" 
+              src="https://images.unsplash.com/photo-1530507629858-e4977d30e9e0?q=80&w=643&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1530507629858-e4977d30e9e0?q=80&w=643&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
               alt="Indian Farm" 
               className="feature-img"
             />
@@ -38,7 +38,7 @@ const Home = () => {
           </div>
           <div className="feature-card">
             <img 
-              src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=200&h=200&fit=crop&crop=center" 
+              src="https://images.unsplash.com/photo-1488459716781-31db52582fe9?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
               alt="Indian Raw Materials" 
               className="feature-img"
             />
@@ -49,7 +49,7 @@ const Home = () => {
       </section>
 
       <section className="how-it-works-section">
-        <h2>How It Works</h2>
+        <h2>How It Works?</h2>
         <div className="how-it-works-grid">
           <div className="how-step">
             <span className="step-number">1</span>
